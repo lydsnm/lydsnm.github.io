@@ -5,9 +5,9 @@
   <subtitle>做害怕做的事，都行的！</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://lydsnm.top/public/"/>
+  <link href="http://life.lydsnm.top/"/>
   <updated>2018-03-03T09:57:06.000Z</updated>
-  <id>http://lydsnm.top/public/</id>
+  <id>http://life.lydsnm.top/</id>
   
   <author>
     <name>lydsnm</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>大鱼海棠体验感</title>
-    <link href="http://lydsnm.top/public/2017/12/13/%E5%A4%A7%E9%B1%BC%E6%B5%B7%E6%A3%A0%E4%BD%93%E9%AA%8C%E6%84%9F/"/>
-    <id>http://lydsnm.top/public/2017/12/13/大鱼海棠体验感/</id>
+    <link href="http://life.lydsnm.top/2017/12/13/%E5%A4%A7%E9%B1%BC%E6%B5%B7%E6%A3%A0%E4%BD%93%E9%AA%8C%E6%84%9F/"/>
+    <id>http://life.lydsnm.top/2017/12/13/大鱼海棠体验感/</id>
     <published>2017-12-13T14:35:05.000Z</published>
     <updated>2018-03-03T09:57:06.000Z</updated>
     
@@ -33,10 +33,10 @@
     
     </summary>
     
-      <category term="电影" scheme="http://lydsnm.top/public/categories/%E7%94%B5%E5%BD%B1/"/>
+      <category term="电影" scheme="http://life.lydsnm.top/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-      <category term="观后感" scheme="http://lydsnm.top/public/tags/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+      <category term="观后感" scheme="http://life.lydsnm.top/tags/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
     
   </entry>
   
