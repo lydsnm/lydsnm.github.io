@@ -35,61 +35,44 @@
 	</header>
 
 	<main>
-		
+		<h1>Archive</h1>
 
-<h1>电影</h1>
+
 
 
 
 <ul class="archive">
-		<li class="archive__year archive__expendable archive__expendable_disabled">
+	
+	
+		<li class="archive__year archive__expendable ">
+			<span>2018</span>
 			<ul>
-			
 				
-					
-					
-						<li class="archive__entry"><a href="/2018/01/05/2018-01-05《银翼杀手2049》有感/">《银翼杀手2049》有感</a></li>
-					
+					<li class="archive__month archive__expendable">
+						<span>July</span>
+						<ul>
+							
+								<li class="archive__entry"><a href="/2018/07/19/成本效应原则/">成本效益原则。</a></li>
+							
+						</ul>
+					</li>
 
 				
-			
-				
-					
-					
-
-				
-			
-				
-					
-					
-						<li class="archive__entry"><a href="/2017/05/16/今天看了最近很🔥的《摔跤吧！爸爸》/">今天看了最近很🔥的《摔跤吧！爸爸》</a></li>
-					
-
-				
-			
-				
-					
-					
-
-				
-			
-				
-					
-					
-
-				
-			
-				
-					
-					
-						<li class="archive__entry"><a href="/2017/12/29/大鱼海棠体验感/">大鱼海棠体验感</a></li>
-					
-
-				
-			
 			</ul>
 		</li>
+		
+	
 </ul>
+
+<script>
+	const expandables = document.querySelectorAll('.archive__expendable')
+	for(let i = 0; i < expandables.length; i++) {
+		expandables[i].addEventListener('click', (e) => {
+			e.stopPropagation()
+			expandables[i].classList.toggle('archive__expendable_collapsed')
+		})
+	}
+</script>
 
 	</main>
 
