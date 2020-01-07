@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://life.lydsnm.top/"/>
-  <updated>2020-01-07T12:51:40.463Z</updated>
+  <updated>2020-01-07T14:18:23.205Z</updated>
   <id>http://life.lydsnm.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>视频小试验</title>
+    <link href="http://life.lydsnm.top/posts/21d01c4e.html"/>
+    <id>http://life.lydsnm.top/posts/21d01c4e.html</id>
+    <published>2020-01-06T16:00:00.000Z</published>
+    <updated>2020-01-07T14:18:23.205Z</updated>
+    
+    <content type="html"><![CDATA[<p>记录过程</p><p>以前拍的素材，现在学习用pr调色，加个音乐，有内味了~</p><video src="http://woolni.oss-cn-chengdu.aliyuncs.com/Videos/ldpracticetry01.mp4" controls="controls" width="70%"><br>您的浏览器不支持 video 标签。<br></video>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;记录过程&lt;/p&gt;
+&lt;p&gt;以前拍的素材，现在学习用pr调色，加个音乐，有内味了~&lt;/p&gt;
+&lt;video src=&quot;http://woolni.oss-cn-chengdu.aliyuncs.com/Videos/ldpracticetry01.mp4&quot; controls=&quot;c
+      
+    
+    </summary>
+    
+      <category term="视频" scheme="http://life.lydsnm.top/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>心路记录</title>
@@ -134,35 +159,6 @@
   </entry>
   
   <entry>
-    <title>只言片语</title>
-    <link href="http://life.lydsnm.top/posts/60e055de.html"/>
-    <id>http://life.lydsnm.top/posts/60e055de.html</id>
-    <published>2019-08-31T16:00:00.000Z</published>
-    <updated>2019-12-28T08:10:17.414Z</updated>
-    
-    <content type="html"><![CDATA[<p>只言片语、有意义 <del>烂鸡汤</del></p><ul><li>孤独是一个人的狂欢</li><li>行远自弥，登高自卑</li><li>凡事预则立，不预则废</li><li>Less is more.</li><li>世界很大，我很小，专注于自己喜欢的事情上，其实时间就不剩什么了</li><li>不断跳跃新环境，才是成长的最佳环境</li><li>做自己想做的事情</li><li><p>人生很吊诡的地方在于，你往往最动心的那个时刻，都是在你还没有准备好的时候遇到。</p><a id="more"></a></li><li><p>勇于索取，能被拒绝，这才是面对事情积极和健康的心态</p></li></ul><p>当一件事不知道如何开始时，具象化它，然后分解出步骤，做出计划好办成许多了。</p><p>我是沙比</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;只言片语、有意义 &lt;del&gt;烂鸡汤&lt;/del&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;孤独是一个人的狂欢&lt;/li&gt;
-&lt;li&gt;行远自弥，登高自卑&lt;/li&gt;
-&lt;li&gt;凡事预则立，不预则废&lt;/li&gt;
-&lt;li&gt;Less is more.&lt;/li&gt;
-&lt;li&gt;世界很大，我很小，专注于自己喜欢的事情上，其实时间就不剩什么了&lt;/li&gt;
-&lt;li&gt;不断跳跃新环境，才是成长的最佳环境&lt;/li&gt;
-&lt;li&gt;做自己想做的事情&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;人生很吊诡的地方在于，你往往最动心的那个时刻，都是在你还没有准备好的时候遇到。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="生活" scheme="http://life.lydsnm.top/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>梗的积累</title>
     <link href="http://life.lydsnm.top/posts/7c76088b.html"/>
     <id>http://life.lydsnm.top/posts/7c76088b.html</id>
@@ -184,6 +180,35 @@
 &lt;li&gt;&lt;p&gt;心里的小鹿累死了，哪撞的起来…&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="生活" scheme="http://life.lydsnm.top/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>只言片语</title>
+    <link href="http://life.lydsnm.top/posts/60e055de.html"/>
+    <id>http://life.lydsnm.top/posts/60e055de.html</id>
+    <published>2019-08-31T16:00:00.000Z</published>
+    <updated>2019-12-28T08:10:17.414Z</updated>
+    
+    <content type="html"><![CDATA[<p>只言片语、有意义 <del>烂鸡汤</del></p><ul><li>孤独是一个人的狂欢</li><li>行远自弥，登高自卑</li><li>凡事预则立，不预则废</li><li>Less is more.</li><li>世界很大，我很小，专注于自己喜欢的事情上，其实时间就不剩什么了</li><li>不断跳跃新环境，才是成长的最佳环境</li><li>做自己想做的事情</li><li><p>人生很吊诡的地方在于，你往往最动心的那个时刻，都是在你还没有准备好的时候遇到。</p><a id="more"></a></li><li><p>勇于索取，能被拒绝，这才是面对事情积极和健康的心态</p></li></ul><p>当一件事不知道如何开始时，具象化它，然后分解出步骤，做出计划好办成许多了。</p><p>我是沙比</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;只言片语、有意义 &lt;del&gt;烂鸡汤&lt;/del&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;孤独是一个人的狂欢&lt;/li&gt;
+&lt;li&gt;行远自弥，登高自卑&lt;/li&gt;
+&lt;li&gt;凡事预则立，不预则废&lt;/li&gt;
+&lt;li&gt;Less is more.&lt;/li&gt;
+&lt;li&gt;世界很大，我很小，专注于自己喜欢的事情上，其实时间就不剩什么了&lt;/li&gt;
+&lt;li&gt;不断跳跃新环境，才是成长的最佳环境&lt;/li&gt;
+&lt;li&gt;做自己想做的事情&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;人生很吊诡的地方在于，你往往最动心的那个时刻，都是在你还没有准备好的时候遇到。&lt;/p&gt;
     
     </summary>
     
@@ -322,29 +347,6 @@
     
     
       <category term="生活" scheme="http://life.lydsnm.top/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>视频小试验</title>
-    <link href="http://life.lydsnm.top/posts/21d01c4e.html"/>
-    <id>http://life.lydsnm.top/posts/21d01c4e.html</id>
-    <published>2019-01-06T16:00:00.000Z</published>
-    <updated>2020-01-07T14:08:19.702Z</updated>
-    
-    <content type="html"><![CDATA[<p>记录过程和提升<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">以前拍的素材，现在学习用pr调色，加个音乐，有内味了</span><br></pre></td></tr></table></figure></p><video src="http://woolni.oss-cn-chengdu.aliyuncs.com/Videos/ldpracticetry01.mp4" controls="controls" width="70%"><br>您的浏览器不支持 video 标签。<br></video>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;记录过程和提升&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;
-      
-    
-    </summary>
-    
-      <category term="视频" scheme="http://life.lydsnm.top/categories/%E8%A7%86%E9%A2%91/"/>
-    
     
   </entry>
   
